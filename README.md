@@ -1,4 +1,4 @@
-## 3D Video Advanced Previewer
+## 3D Video Advanced Previewer V1.0.0
 SBS (Side-by-Side) や TAB (Top-and-Bottom) 形式の3D動画を、ブラウザ上でリアルタイムに補正して2D表示・プレビューするためのツールです。
 
 ## 主な機能
